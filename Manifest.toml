@@ -441,14 +441,6 @@ git-tree-sha1 = "b34d7cef7b337321e97d22242c3c2b91f476748e"
 uuid = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 version = "0.21.0"
 
-[[KDTree]]
-deps = ["ArraysOfArrays", "Distributions", "IntervalSets", "LinearAlgebra", "Plots", "PyPlot", "StatsBase", "ValueShapes"]
-git-tree-sha1 = "674ac6710af8a01d065557aeccced5bedf5da016"
-repo-rev = "master"
-repo-url = "https://github.com/VasylHafych/KDTree.jl.git"
-uuid = "696f4745-383f-4cfb-8be8-c7582de6cd01"
-version = "0.1.0"
-
 [[KernelDensity]]
 deps = ["Distributions", "FFTW", "Interpolations", "Optim", "StatsBase", "Test"]
 git-tree-sha1 = "c1048817fe5711f699abc8fabd47b1ac6ba4db04"
